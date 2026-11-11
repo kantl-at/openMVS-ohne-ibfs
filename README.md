@@ -1,3 +1,5 @@
+> Modified version of OpenMVS (IBFS removed): see README-KANTL.md.
+
 # OpenMVS: open Multi-View Stereo reconstruction library
 
 [![Watch reconstruction](https://i.imgur.com/S4L0E6r.jpeg)](https://sketchfab.com/models/3aedcdd22c31447199c18dd9aec5d952/embed)
